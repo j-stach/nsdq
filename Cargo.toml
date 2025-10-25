@@ -10,7 +10,7 @@ description = ""
 keywords = ["ouch", "itch", "nasdaq", "trading", "finance"]
 categories = ["network-programming", "finance"]
 
-exclude = [".git/**", "docs/**", "test/**", "src/test/**", "TODO.md"]
+exclude = [".git/**"]
 
 [dependencies]
 litch = "0.0.0"
